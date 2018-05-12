@@ -1,0 +1,30 @@
+_repo: Something-Else-Again_26797
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Franklin P. (Franklin Pierce)
+    alias: Adams, Franklin Pierce
+    birthdate: 1881
+    deathdate: 1960
+    gutenberg_agent_id: '1958'
+    url: http://www.gutenberg.org/2009/agents/1958
+    wikipedia: http://en.wikipedia.org/wiki/Franklin_Pierce_Adams
+description: ''
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26797'
+  lccn: '20007285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parodies'
+- !lcsh 'Humorous poetry, American'
+- !lcc 'PS'
+title: Something Else Again
+url: http://www.gutenberg.org/ebooks/26797
